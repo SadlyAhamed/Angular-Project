@@ -1,0 +1,234 @@
+{
+  "seller": [
+    {
+      "name": "tonmoy",
+      "password": "1234",
+      "email": "tonmoy@gmail.com",
+      "id": 1
+    }
+  ],
+  "products": [
+   
+    {
+      "name": "mUnex 99if-fdgh",
+      "price": "2600",
+      "category": "Voliball",
+      "color": "white",
+      "description": "Confirmable ball user",
+      "image": "assets/img/istockphoto-1368075556-612x612.jpg",
+      "id": 1
+    },
+    {
+      "name": "unex-225 i-56",
+      "price": "264800",
+      "category": "Batminton",
+      "color": "Red",
+      "description": "A bat  15 year old child",
+      "image": "assets/img/istockphoto-943018784-612x612.jpg",
+      "id": 2
+    },
+    {
+      "name": "max p-875 if",
+      "price": "2900",
+      "category": "Football",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "assets/img/istockphoto-1097457362-612x612.jpg",
+      "id": 3
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "assets/img/istockphoto-820988746-1024x1024.jpg",
+      "id": 4
+    },
+    {
+      "name": "Ear pot ",
+      "price": "1500",
+      "category": "bluetooth",
+      "color": "white",
+      "description": "this is a lenovo product",
+      "image": "assets/img/cricketer-studio-shot-on-white-background-BF5M47.jpg",
+      "id": 5
+    },
+    {
+      "name": "Bat mp-78po",
+      "price": "1300",
+      "category": "Bat",
+      "color": "black, White",
+      "description": "An Stylish Product",
+      "image": "assets/img/istockphoto-178740022-612x612.jpg",
+      "id": 6
+    },
+    {
+      "name": "football mp-78po",
+      "price": "6300",
+      "category": "football",
+      "color": "black, White",
+      "description": "An Stylish Product is play sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/istockphoto-695294506-612x612.jpg",
+      "id": 7
+    },
+    {
+      "name": "unex  iku-78 -po",
+      "price": "6300",
+      "category": "Batminton",
+      "color": "black, White",
+      "description": " lorejb othb fgybj An Stylish Product is play sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/istockphoto-670258646-612x612.jpg",
+      "id": 8
+    },
+    {
+      "name": "uhyrm  j iku-78 -po",
+      "price": "6500",
+      "category": "Football",
+      "color": "black",
+      "description": "A othb fgybj An Stylish Product is play sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/istockphoto-647630040-612x612.jpg",
+      "id": 9
+    },
+    {
+      "name": "uhyrm  j iku-78 -po",
+      "price": "6500",
+      "category": "Football",
+      "color": "black",
+      "description": "A othb fgybj An Stylish Product is play sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/istockphoto-647630040-612x612.jpg",
+      "id": 10
+    },
+    {
+      "name": "ball iu-001",
+      "price": "550",
+      "category": "ball",
+      "color": "white",
+      "description": "Stylish Product is play sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/61MuawRdkkL._AC_UL320_.jpg",
+      "id": 11
+    },
+    {
+      "name": "bat iu-001",
+      "price": "5150",
+      "category": "Batminton",
+      "color": "white",
+      "description": "Stylish ggf dftyhdrtnb tryrt sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/51SoSU2qNIL._AC_UL320_.jpg",
+      "id": 12
+    },
+    {
+      "name": "bat iu-002",
+      "price": "1550",
+      "category": "Cricket",
+      "color": "blue",
+      "description": "Stylish ggf dftyhdrtnb tryrt sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/41Exlne1z4L._AC_UL320_.jpg",
+      "id": 13
+    },
+    {
+      "name": "nike",
+      "price": "3550",
+      "category": "Showe",
+      "color": "black, White",
+      "description": "Stylish ggf dftyhdrtnb tryrt sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/41o+5PhH--L._AC_UL320_.jpg",
+      "id": 14
+    },
+    {
+      "name": "nike",
+      "price": "6550",
+      "category": "bag",
+      "color": "black, White",
+      "description": "Stylish ggf fghr  rtyr hrtu tryrt sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/51AtjrjXxoL._AC_UL320_.jpg",
+      "id": 15
+    },
+    {
+      "name": "cricket bat and pad",
+      "price": "7550",
+      "category": "bag",
+      "color": "black, White",
+      "description": "Stylish dfgse rtdrt tyuttryrt sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/51GJDjJGHLL._AC_UL320_.jpg",
+      "id": 16
+    },
+    {
+      "name": "cricket ball",
+      "price": "6550",
+      "category": "bag",
+      "color": "White",
+      "description": "Stylish dfgse rtdrt tyuttryrt sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/61SygZmIUEL._AC_UL320_.jpg",
+      "id": 17
+    },
+    {
+      "name": "Glavs",
+      "price": "6250",
+      "category": "glavs",
+      "color": "black, White",
+      "description": "Stylish dfgse rtdrt tyuttryrt sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/61YMPW0JbEL._AC_UL320_.jpg",
+      "id": 18
+    },
+    {
+      "name": "bat",
+      "price": "5150",
+      "category": "Batminton",
+      "color": "black, White",
+      "description": "Stylish dfgse rtdrt tyuttryrt sdfg fgkrh foit ofgj folig ",
+      "image": "assets/img/71-1+oOEUXL._AC_UL320_.jpg",
+      "id": 19
+    },
+    {
+      "name": "laptop hp-00175-la",
+      "price": "6000",
+      "category": "laptop",
+      "color": "black",
+      "description": "dkgh dioghkj iowrt ioghbn oifhgbdfgio",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/g244f-e2/g244f-e2-01-500x500.webp",
+      "id": 20
+    }
+  ],
+  "users": [
+    {
+      "name": "tonmoy",
+      "email": "tonmoy@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "hasan",
+      "email": "hasan@gmail.com",
+      "password": "hasan",
+      "id": 2
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "email": "korim@gmail.com",
+      "address": "Dhanmondi",
+      "contact": "01750942992",
+      "totalPrice": 55950,
+      "userId": 2,
+      "id": 3
+    }
+  ]
+}

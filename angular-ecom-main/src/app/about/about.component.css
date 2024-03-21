@@ -1,0 +1,66 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Basic styles */
+  .body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+  }
+  
+  .header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .nav ul {
+    list-style: none;
+  }
+  
+  .ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .main {
+    padding: 20px;
+  }
+  
+  .about-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .about-content {
+    flex: 1;
+  }
+  
+  .profile-image {
+    flex: 2;
+    text-align: center;
+  }
+  
+  .profile-image img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+  }
+  .pic{
+    padding: 10px;
+  }
+ 
+  

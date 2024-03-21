@@ -1,0 +1,25 @@
+<!-- <form class="login-form" (submit)="login()">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" [(ngModel)]="username">
+  
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" [(ngModel)]="password">
+  
+    <button type="submit">Login</button>
+  </form> -->
+
+  <form class="login-form" (submit)="login()">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" [(ngModel)]="username">
+  
+    <label for="password">Password:</label>
+    <div class="password-field">
+        <input type="password" id="password" name="password" [(ngModel)]="password">
+        <button type="button" class="toggle-password" (click)="togglePassword()">
+            <i class="fas" [ngClass]="{'fa-eye': showPassword, 'fa-eye-slash': !showPassword}"></i>
+        </button>
+    </div>
+  
+    <button type="submit">Login</button>
+</form>
+  

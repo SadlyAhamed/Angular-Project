@@ -1,0 +1,70 @@
+.product-header-image{
+    object-fit: contain;
+    width: 100%;
+    height: 600px;
+}
+.product-item{
+    margin-bottom: 40px;
+    border: 1px solid #ccc;
+}
+
+.product-item img{
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+}
+
+.product-item .product-details {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 15px;
+}
+
+.product-item .name-head{
+    font-size: 20px;
+    font-weight: 600;
+}
+.product-item h6{
+    text-align: center;
+}
+.product-item .product-footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+
+
+.product-footer {
+    /* Add styles for the product footer container */
+    /* For example: */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f0f0f0;
+  }
+
+  .product-footer a {
+    /* Add general styles for the links */
+    /* For example: */
+    text-decoration: none;
+    padding: 8px 16px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    color: #333;
+  }
+
+  .product-footer a:hover {
+    /* Add styles for link hover */
+    /* For example: */
+    background-color: #333;
+    color: #fff;
+  }
+
+  .product-details{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
