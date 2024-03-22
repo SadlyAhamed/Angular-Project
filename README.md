@@ -61,6 +61,6 @@ Project Preview.
 :pushpin: Order Details Page:
 ![ Order Details Page](https://github.com/SadlyAhamed/Angular-Project/blob/main/Screenshots/Screenshot%20(11).png)
 
-:pushpin: Admin login:
-![  Admin login](https://github.com/SadlyAhamed/Angular-Project/blob/main/Screenshots/Screenshot%20(8).png)
+:pushpin: Store product:
+![  Admin login](https://github.com/SadlyAhamed/Angular-Project/blob/main/Screenshots/Screenshot%20(6).png)
 
